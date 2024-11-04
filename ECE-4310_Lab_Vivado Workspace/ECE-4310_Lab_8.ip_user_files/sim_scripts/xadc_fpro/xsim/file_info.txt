@@ -1,0 +1,2 @@
+xadc_fpro.v,verilog,xil_defaultlib,../../../../ECE-4310_Lab_8.gen/sources_1/ip/xadc_fpro/xadc_fpro.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

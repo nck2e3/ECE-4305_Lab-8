@@ -1,0 +1,15 @@
+{
+  "name": "ECE-4310_Lab-8_ApplicationV2",
+  "type": "HOST",
+  "platform": "/home/noah/Projects/ECE-4310_Lab-8/ECE-4310_Lab-8_Vitis-Workspace/microblaze/export/microblaze/microblaze.xpfm",
+  "domain": "standalone_microblaze_I",
+  "cpuInstance": "microblaze_I",
+  "cpuType": "microblaze",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_microblaze_I",
+  "applicationFlow": "EMBEDDED"
+}
